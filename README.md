@@ -23,3 +23,7 @@ SobreCargaDeConstructores: Mas de una definicion de un constructor de una clase 
 con static no se requiere instanciar un objeto, las clases estaticas todos sus miembros deben ser estaticos 
 
 El acoplamiento esta relacionado con que tan dependientes son una clase con otra
+
+##Acoplamiento
+
+Cohesion una clase debe tener una alta relacion entre sus funcionalidad pero sin perder el proposito de ser del control o de la clase 
