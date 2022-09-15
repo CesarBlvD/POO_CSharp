@@ -27,3 +27,7 @@ El acoplamiento esta relacionado con que tan dependientes son una clase con otra
 ## Acoplamiento
 
 Cohesion una clase debe tener una alta relacion entre sus funcionalidad pero sin perder el proposito de ser del control o de la clase 
+## The store 2
+
+repositorio: son componentes o clases que encapsulan la logica necesaria para acceder a las fuentes de datos, logra mejor capacidad de almacenamiento
+Herencia: relacion que existe entre multiples clases 
