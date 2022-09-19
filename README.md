@@ -31,3 +31,9 @@ Cohesion una clase debe tener una alta relacion entre sus funcionalidad pero sin
 
 repositorio: son componentes o clases que encapsulan la logica necesaria para acceder a las fuentes de datos, logra mejor capacidad de almacenamiento
 Herencia: relacion que existe entre multiples clases 
+
+## Interfaces
+
+Interfaz: Contrato entre lsa misma interfaz y una clase que implementa dicha interfaz, las interfaces no pueden incluir campos, todos los metodos deben de ser publicos, para implementar una interfaz es requerido mandar a llamar todos los metodos que se esten utilizando en dicha interfaz
+Abstract: no puede crear instancias de una clase ya que esta pensada para compartir ciertos miembros pero que no puedan ser utilizados de otra forma, un metodo abstracto no puede ser privado
+Metodo virtual y uno abstracto: un metodo abstracto va a tener siempre dentro de una clase abstracta, metodo virtual tiene cierta logica de implementacion y el abstracto no contiene logica de implementacion y tiene que ser implementada obligatoriamente en las clases derivadas de la clase abstracta
