@@ -1,0 +1,7 @@
+C:\Users\c018220322\Desktop\Csharp\HerenciaDemo\HerenciaDemo\bin\Debug\HerenciaDemo.exe.config
+C:\Users\c018220322\Desktop\Csharp\HerenciaDemo\HerenciaDemo\bin\Debug\HerenciaDemo.exe
+C:\Users\c018220322\Desktop\Csharp\HerenciaDemo\HerenciaDemo\bin\Debug\HerenciaDemo.pdb
+C:\Users\c018220322\Desktop\Csharp\HerenciaDemo\HerenciaDemo\obj\Debug\HerenciaDemo.csproj.AssemblyReference.cache
+C:\Users\c018220322\Desktop\Csharp\HerenciaDemo\HerenciaDemo\obj\Debug\HerenciaDemo.csproj.CoreCompileInputs.cache
+C:\Users\c018220322\Desktop\Csharp\HerenciaDemo\HerenciaDemo\obj\Debug\HerenciaDemo.exe
+C:\Users\c018220322\Desktop\Csharp\HerenciaDemo\HerenciaDemo\obj\Debug\HerenciaDemo.pdb
